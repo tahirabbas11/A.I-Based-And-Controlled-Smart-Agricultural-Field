@@ -1,6 +1,6 @@
 # Title : A.I-Based And Controlled Smart Agricultural Field
 
-# AI-Based Smart Agricultural Field
+## Final Year Project (FYP)
 
 **Authors:** Syed Tahir Abbas Haider Naqvi, Husain Saleem, Hamza Siddiqui and Muhammad Osama.
 
