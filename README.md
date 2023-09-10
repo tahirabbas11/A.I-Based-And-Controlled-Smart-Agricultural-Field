@@ -33,15 +33,15 @@ Follow these simple steps to get our fantastic project up and running! 🌟
 
 ## Step 1: Download or Clone the Repository along with the frontend/Backend codes 📥
 
-You can either download the repository as a ZIP file or clone it using Git. Just grab the code, and you're ready for the next steps!
+- You can either download the repository as a ZIP file or clone it using Git. Just grab the code, and you're ready for the next steps!
 
 ## Step 2: Open Your Command-Line 🖥️
 
-Launch your preferred command line tool, whether it's the command prompt on Windows or the terminal on macOS and Linux.
+- Launch your preferred command line tool, whether it's the command prompt on Windows or the terminal on macOS and Linux.
 
 ## Step 3: Install Project Dependencies 📦
 
-Run the following commands in both the frontend and backend folders to install the required dependencies:
+- Run the following commands in both the frontend and backend folders to install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -61,7 +61,7 @@ Set-ExecutionPolicy Unrestricted -scope process
 myproject/Scripts/activate
 ```
 
-Run the backend server with:
+- Run the backend server with:
 
 ```bash
 py main.py
@@ -69,7 +69,7 @@ py main.py
 
 ## Step 5: Frontend Configuration 🌐
 
-Navigate to the frontend folder and start the PHP server:
+- Navigate to the frontend folder and start the PHP server:
 
 ```bash
 php artisan serve
@@ -77,7 +77,7 @@ php artisan serve
 
 ## Step 6: Farm Functionality 🚜
 
-For the farm functionality, navigate to the farm folder and run:
+- For the farm functionality, navigate to the farm folder and run:
 
 ```bash
 py farm.py
@@ -85,13 +85,13 @@ py farm.py
 
 ## Step 7: Launch the Application 🚀
 
-Finally, run the main application with:
+- Finally, run the main application with:
 
 ```bash
 python app.py
 ```
 
-That's it! You've successfully set up and launched our incredible project. Enjoy exploring its features and capabilities. Happy coding! 🌐👨‍💻
+- That's it! You've successfully set up and launched our incredible project. Enjoy exploring its features and capabilities. Happy coding! 🌐👨‍💻
 ```
 
 You can copy and paste this markdown code directly into your README.md file on GitHub to provide clear instructions on how to run your project. NOTE these may change for your scenario.
