@@ -2,11 +2,9 @@
 
 # AI-Based Smart Agricultural Field
 
-**Authors:** Husain Saleem, Hamza Siddiqui, Syed Tahir Abbas Haider Naqvi, and Muhammad Osama
+**Authors:** Syed Tahir Abbas Haider Naqvi, Husain Saleem, Hamza Siddiqui and Muhammad Osama.
 
 **Year of Publication:** 2023
-
-
 
 
 
@@ -18,6 +16,13 @@ At GitHub, we adhere to a policy that restricts the uploading of large files dir
 - **_Backend_**: Explore our *backend* implementation [here](link_to_backend_repository).
 - **_Dataset_**: The dataset used in this project is available for download on *Google Drive* [here](link_to_dataset_on_drive).
 
+Run 🎯
+1. Download or clone the repository
+2. Open cmd or terminal
+3. change directory (cd) to potato-disease-classifier
+4. Enter pip install -r requirements.txt
+5. Enter python app.py
+
+
 *Note: For detailed technical documentation and code, please refer to the project repository
 Please feel free to navigate to the respective links to access these integral parts of our project. For any inquiries or support, kindly reach out to us through GitHub. Thank you for your understanding and cooperation.
-
