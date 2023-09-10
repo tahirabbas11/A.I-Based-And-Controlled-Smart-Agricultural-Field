@@ -28,7 +28,7 @@ Please feel free to navigate to the respective links to access these integral pa
 
 Follow these simple steps to get our fantastic project up and running! 🌟
 
-### Step 1: Download or Clone the Repository along with the frontend/Backend codes 📥
+## Step 1: Download or Clone the Repository along with the frontend/Backend codes 📥
 
 You can either download the repository as a ZIP file or clone it using Git. Just grab the code, and you're ready for the next steps!
 
@@ -91,4 +91,4 @@ python app.py
 That's it! You've successfully set up and launched our incredible project. Enjoy exploring its features and capabilities. Happy coding! 🌐👨‍💻
 ```
 
-You can copy and paste this markdown code directly into your README.md file on GitHub to provide clear instructions on how to run your project.
+You can copy and paste this markdown code directly into your README.md file on GitHub to provide clear instructions on how to run your project. NOTE these may change for your scenario.
