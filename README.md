@@ -24,5 +24,5 @@ Run 🎯
 5. Enter python app.py
 
 
-*Note: For detailed technical documentation and code, please refer to the project repository
+**Note:** For detailed technical documentation and code, please refer to the project repository
 Please feel free to navigate to the respective links to access these integral parts of our project. For any inquiries or support, kindly reach out to us through GitHub. Thank you for your understanding and cooperation.
