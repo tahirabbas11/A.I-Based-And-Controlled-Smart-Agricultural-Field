@@ -14,7 +14,7 @@ At GitHub, we adhere to a policy that restricts the uploading of large files dir
 
 - **_Frontend_**: Access our *frontend* codebase [here](link_to_frontend_repository).
 - **_Backend_**: Explore our *backend* implementation [here](link_to_backend_repository).
-- **_Dataset_**: The dataset used in this project is available for download on *Google Drive* [here](link_to_dataset_on_drive).
+- **_Dataset_**: The dataset used in this project is available for download on *Google Drive* [here](https://www.kaggle.com/datasets/emmarex/plantdisease).
 
 Run 🎯
 1. Download or clone the repository
