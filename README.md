@@ -91,6 +91,4 @@ py farm.py
 python app.py
 ```
 
-- That's it! You've successfully set up and launched our incredible project. Enjoy exploring its features and capabilities. Happy coding! 🌐👨‍💻
-```
-You can copy and paste this markdown code directly into your README.md file on GitHub to provide clear instructions on how to run your project. NOTE These may change for your scenario.
+- That's it! You've successfully set up and launched our incredible project. Enjoy exploring its features and capabilities. Happy coding! 🌐👨‍💻. You can copy and paste this markdown code directly into your README.md file on GitHub to provide clear instructions on how to run your project. NOTE These may change for your scenario.
