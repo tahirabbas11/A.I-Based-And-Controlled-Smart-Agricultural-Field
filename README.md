@@ -28,7 +28,7 @@ Please feel free to navigate to the respective links to access these integral pa
 
 Follow these simple steps to get our fantastic project up and running! 🌟
 
-## Step 1: Download or Clone the Repository along with the frontend/Backend codes 📥
+### Step 1: Download or Clone the Repository along with the frontend/Backend codes 📥
 
 You can either download the repository as a ZIP file or clone it using Git. Just grab the code, and you're ready for the next steps!
 
