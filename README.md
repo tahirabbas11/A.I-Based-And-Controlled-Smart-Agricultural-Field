@@ -2,6 +2,7 @@
 
 ## Final Year Project (FYP)
 
+**Explore the contributions of the project's talented contributors:** [Husain Saleem](link_to_husain), [Hamza Siddiqui](link_to_hamza), [Syed Tahir Abbas Haider Naqvi](link_to_tahir), and [Muhammad Osama](link_to_osama).
 **Authors:** Syed Tahir Abbas Haider Naqvi, Husain Saleem, Hamza Siddiqui and Muhammad Osama.
 
 **Year of Publication:** 2023
