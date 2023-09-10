@@ -49,13 +49,13 @@ pip install -r requirements.txt
 
 ## Step 4: Backend Setup 🐍
 
-For the backend, make sure to set the execution policy for your system:
+- For the backend, make sure to set the execution policy for your system:
 
 ```bash
 Set-ExecutionPolicy Unrestricted -scope process
 ```
 
-Activate the virtual environment (if you're using one) by running:
+- Activate the virtual environment (if you're using one) by running:
 
 ```bash
 myproject/Scripts/activate
