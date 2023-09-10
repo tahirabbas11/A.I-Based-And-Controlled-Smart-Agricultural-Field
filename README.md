@@ -20,28 +20,75 @@ At GitHub, we adhere to a policy that restricts the uploading of large files dir
 Please feel free to navigate to the respective links to access these integral parts of our project. For any inquiries or support, kindly reach out to us through GitHub. Thank you for your understanding and cooperation.
 
 
-## Final Year Project (FYP)
+
+
 
 
 # 🚀 How to Run the Project 🏃‍♂️
 
 Follow these simple steps to get our fantastic project up and running! 🌟
 
-## Step 1: Download or Clone the Repository 📥
+## Step 1: Download or Clone the Repository along with the frontend/Backend codes 📥
 
 You can either download the repository as a ZIP file or clone it using Git. Just grab the code, and you're ready for the next steps!
 
-## Step 2: Open Your Command Line 🖥️
+## Step 2: Open Your Command-Line 🖥️
 
 Launch your preferred command line tool, whether it's the command prompt on Windows or the terminal on macOS and Linux.
 
-## Step 3: Navigate to the Project Directory 📂
-
-Use the `cd` command to change your current directory to the "potato-disease-classifier" folder where you've downloaded or cloned the project.
-
-## Step 4: Install Project Dependencies 📦
+## Step 3: Install Project Dependencies 📦
 
 Run the following commands in both the frontend and backend folders to install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Step 4: Backend Setup 🐍
+
+For the backend, make sure to set the execution policy for your system:
+
+```bash
+Set-ExecutionPolicy Unrestricted -scope process
+```
+
+Activate the virtual environment (if you're using one) by running:
+
+```bash
+myproject/Scripts/activate
+```
+
+Run the backend server with:
+
+```bash
+py main.py
+```
+
+## Step 5: Frontend Configuration 🌐
+
+Navigate to the frontend folder and start the PHP server:
+
+```bash
+php artisan serve
+```
+
+## Step 6: Farm Functionality 🚜
+
+For the farm functionality, navigate to the farm folder and run:
+
+```bash
+py farm.py
+```
+
+## Step 7: Launch the Application 🚀
+
+Finally, run the main application with:
+
+```bash
+python app.py
+```
+
+That's it! You've successfully set up and launched our incredible project. Enjoy exploring its features and capabilities. Happy coding! 🌐👨‍💻
+```
+
+You can copy and paste this markdown code directly into your README.md file on GitHub to provide clear instructions on how to run your project.
