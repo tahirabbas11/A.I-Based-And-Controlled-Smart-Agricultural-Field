@@ -2,7 +2,11 @@
 
 ## Final Year Project (FYP)
 
-**Auothers & Explore the contributions of the project's talented contributors:** [Syed Tahir Abbas Haider Naqvi](https://github.com/tahirabbas11), [Husain Saleem](link_to_husain), [Hamza Siddiqui](link_to_hamza) and [Muhammad Osama](link_to_osama).
+**Auothers & Explore the contributions of the project's talented contributors:** 
+- [Syed Tahir Abbas Haider Naqvi](https://github.com/tahirabbas11)
+- [Husain Saleem](link_to_husain)
+- [Hamza Siddiqui](link_to_hamza)
+- [Muhammad Osama](link_to_osama)
 
 **Year of Publication:** 2023
 
