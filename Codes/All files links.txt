@@ -1,3 +1,7 @@
 Frontend: https://drive.google.com/drive/folders/1Fw1GkpeZ8iF_lNJefGPDQw6jMevccG8J?usp=sharing
+
 Backend: https://drive.google.com/drive/folders/1kFHtILBEn45642gMum1q6MuwSg3mqnwr?usp=sharing
-Dataset: https://drive.google.com/drive/folders/12qJmWK6Qht6Zt-Aj7vzkaTQ0CGY097za?usp=sharing     or       https://www.kaggle.com/datasets/emmarex/plantdisease
+
+Dataset: https://drive.google.com/drive/folders/12qJmWK6Qht6Zt-Aj7vzkaTQ0CGY097za?usp=sharing    
+
+Dataset Alternative: https://www.kaggle.com/datasets/emmarex/plantdisease
