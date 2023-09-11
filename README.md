@@ -1,4 +1,4 @@
-# Title : A.I-Based And Controlled Smart Agricultural Field
+![image](https://github.com/tahirabbas11/A.I-Based-And-Controlled-Smart-Agricultural-Field/assets/86786421/5ff1c602-8ef9-41ac-b096-2625773e7e1a)# Title : A.I-Based And Controlled Smart Agricultural Field
 
 ## Final Year Project (FYP)
 
@@ -92,3 +92,9 @@ python app.py
 ```
 
 That's it! You've successfully set up and launched our incredible project. Enjoy exploring its features and capabilities. Happy coding! 🌐👨‍💻. You can copy and paste this markdown code directly into your README.md file on GitHub to provide clear instructions on how to run your project. NOTE These may change for your scenario.
+
+
+
+![Alt Text](![image](https://github.com/tahirabbas11/A.I-Based-And-Controlled-Smart-Agricultural-Field/assets/86786421/80f67986-f44a-4f8d-aa4d-2977440aa2f9)
+)
+
