@@ -94,7 +94,6 @@ python app.py
 That's it! You've successfully set up and launched our incredible project. Enjoy exploring its features and capabilities. Happy coding! 🌐👨‍💻. You can copy and paste this markdown code directly into your README.md file on GitHub to provide clear instructions on how to run your project. NOTE These may change for your scenario.
 
 
+![image](https://github.com/tahirabbas11/A.I-Based-And-Controlled-Smart-Agricultural-Field/assets/86786421/43f78803-0de9-4d3f-9748-3c4ad67bf0f5)
 
-![Alt Text](![image](https://github.com/tahirabbas11/A.I-Based-And-Controlled-Smart-Agricultural-Field/assets/86786421/80f67986-f44a-4f8d-aa4d-2977440aa2f9)
-)
 
