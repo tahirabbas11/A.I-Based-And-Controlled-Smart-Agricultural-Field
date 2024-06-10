@@ -23,6 +23,8 @@ At GitHub, we adhere to a policy that restricts the uploading of large files dir
 **Note:** For detailed technical documentation and code, please refer to the project repository
 Please feel free to navigate to the respective links to access these integral parts of our project. For any inquiries or support, kindly reach out to us through GitHub. Thank you for your understanding and cooperation.
 
+MAKE SURE TO ADD model.h5 IN BACKEND FOLDER (CLICL [HERE](https://drive.google.com/file/d/1uwYfbQuzOXW5d9ydCQGVxZfyv7JuQhNv/view?usp=sharing) TO DOWNLOAD)
+
 
 
 
