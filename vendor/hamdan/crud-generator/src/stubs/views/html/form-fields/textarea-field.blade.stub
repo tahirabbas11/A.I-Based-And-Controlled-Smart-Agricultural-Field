@@ -1,0 +1,1 @@
+<textarea class="editor" id="%%itemName%%" name="%%itemName%%">{!! $data == null ? old('%%itemName%%') : $data->%%itemName%% !!}</textarea>

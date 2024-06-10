@@ -1,0 +1,1 @@
+<input type="file" class="dropify" name="%%itemName%%" {{ $data != null ? 'data-default-file = ' .asset($data->%%itemName%%) : ''}}>

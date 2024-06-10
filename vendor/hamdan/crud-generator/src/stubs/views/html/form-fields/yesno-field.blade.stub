@@ -1,0 +1,1 @@
+<input data-style="switch" type="checkbox" {{ ($data != null) ? (($data->%%itemName%% == 1) ? 'checked' : '') : '' }} data-toggle="toggle" name="%%itemName%%" data-width="60" data-height="20" data-onstyle="primary" data-size="sm">
